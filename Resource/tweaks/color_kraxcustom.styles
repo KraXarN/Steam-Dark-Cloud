@@ -1,0 +1,9 @@
+"resource/options/color_kraxcustom.styles"
+{
+	colors
+	{
+		Focus="80 30 120 255"
+		Focus2="110 70 160 255" //+28 +37 +36
+		Focus3="120 40 150" //-35% saturation
+	}
+}
