@@ -1,7 +1,8 @@
 # Steam Dark Cloud
 A dark Steam theme based off [Air-Classic](https://github.com/outsetini/Air-Classic). Currently in a very early state!
 
-Current version is 0.1 23/7-2016
+Current public version is 0.1 23/7-2016
+Current development version is 0.1.2 21/4-2016
 
 Screenshots
 --------------
